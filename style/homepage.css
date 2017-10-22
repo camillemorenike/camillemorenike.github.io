@@ -1,0 +1,21 @@
+nav{
+	background-color: rgb(217, 179, 140)
+}
+.navbar-brand.cam-title {
+	color: white;
+}
+
+.nav-item .nav-link.nav-menu-item{
+	color: white
+}
+
+body{
+	background: url("../imgs/coffee.jpg") no-repeat center center fixed;
+	background-size: cover;
+}
+
+.text{
+	font-family: courier;
+	color: white;
+	text-align: center;
+}
